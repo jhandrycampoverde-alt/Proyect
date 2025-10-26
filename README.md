@@ -4,13 +4,12 @@ Equipo de 5 estudiantes
 
 - Ethan Saúl Soto Borbor
 
-•	Víctor David Macas Montaño
+- Víctor David Macas Montaño
+- Camila Alejandra Chimbo Sánchez
 
-•	Camila Alejandra Chimbo Sánchez
+- Jhandry Jahir Campoverde Izquierdo
 
-•	Jhandry Jahir Campoverde Izquierdo
-
-•	Luis Javier Armijos Llacsahuanga
+- Luis Javier Armijos Llacsahuanga
 
 Ejercicios propuestos
 
